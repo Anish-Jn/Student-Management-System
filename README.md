@@ -6,7 +6,6 @@
 <p>To run this application: </p> 
 
 * You have to have Java installed. You can download it here: <a href="https://www.java.com/en/">Link</a>
-* After that accees the <a href="https://github.com/Yashmerino/S-M-S/releases">Releases</a> section and download the last version of the application.
 * Right-click the zipped folder saved to your computer and choose "Extract All". Run the application and enjoy!
 
 <h1 align="center"><strong>Demonstration</strong></h1>
